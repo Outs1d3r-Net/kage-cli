@@ -21,9 +21,9 @@ This CLI is designed for teams seeking **operational efficiency**, cost control,
 
 ## ⚙️ Prerequisites
 
-- [`doctl`](https://docs.digitalocean.com/reference/doctl/) installed and authenticated.
-- Valid DigitalOcean access token.
-
+- [`doctl`](https://docs.digitalocean.com/reference/doctl/) installed and authenticated.  
+- Valid DigitalOcean access token.  
+> https://docs.digitalocean.com/reference/api/create-personal-access-token/  
 ---
 
 ## 🔐 Configuration
